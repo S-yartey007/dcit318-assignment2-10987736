@@ -58,18 +58,51 @@ namespace OOP {
 
         }
     }
+    //interfaces
+    public interface IMovable {
+         void Move();
+    }
+    //Derived classes
+    public class Car : IMovable {
+     public void Move() {
+        Console.WriteLine("Car is moving");
+     }
+    }
+    public class Bicycle : IMovable {
+       public void Move() {
+            Console.WriteLine("Bicycle is moving");
+        }
+    }
+    
   public class Program {
              public static void Main(String[] args) {
+                //Instances of Animal, Dog and Cat
                 Animal animal = new Animal();
                 Dog dog = new Dog();
                 Cat cat = new Cat();
+
+                //Calling the inherited methods
                 animal.MakeSound();
                 dog.MakeSound();
                 cat.MakeSound();
+                
+                //Instances of Rectangle and Circle
                 Rectangle rectangle = new Rectangle(34,34);
                 Circle circle = new Circle(34);
+
+                //Printing value of inherited methods
                 Console.WriteLine(circle.GetArea());
                 Console.WriteLine(rectangle.GetArea());
+
+                //Instances of Car and Bicycle
+                Car car = new Car();
+                Bicycle bicycle = new Bicycle();
+
+                //Calling methods of Car and bicycle
+                car.Move();
+                bicycle.Move();
+
+
 
         }
     }
