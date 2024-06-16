@@ -12,3 +12,4 @@
 /home/emmanuel/NEWSTART/dcit318-assignment2-10987736/obj/Debug/net8.0/dcit318-assignment2-10987736.pdb
 /home/emmanuel/NEWSTART/dcit318-assignment2-10987736/obj/Debug/net8.0/dcit318-assignment2-10987736.genruntimeconfig.cache
 /home/emmanuel/NEWSTART/dcit318-assignment2-10987736/obj/Debug/net8.0/ref/dcit318-assignment2-10987736.dll
+/home/emmanuel/NEWSTART/dcit318-assignment2-10987736/obj/Debug/net8.0/dcit318-assignment2-10987736.sourcelink.json
