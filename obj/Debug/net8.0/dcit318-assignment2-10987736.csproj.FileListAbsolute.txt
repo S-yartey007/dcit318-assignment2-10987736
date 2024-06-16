@@ -1,0 +1,14 @@
+/home/emmanuel/NEWSTART/dcit318-assignment2-10987736/bin/Debug/net8.0/dcit318-assignment2-10987736
+/home/emmanuel/NEWSTART/dcit318-assignment2-10987736/bin/Debug/net8.0/dcit318-assignment2-10987736.deps.json
+/home/emmanuel/NEWSTART/dcit318-assignment2-10987736/bin/Debug/net8.0/dcit318-assignment2-10987736.runtimeconfig.json
+/home/emmanuel/NEWSTART/dcit318-assignment2-10987736/bin/Debug/net8.0/dcit318-assignment2-10987736.dll
+/home/emmanuel/NEWSTART/dcit318-assignment2-10987736/bin/Debug/net8.0/dcit318-assignment2-10987736.pdb
+/home/emmanuel/NEWSTART/dcit318-assignment2-10987736/obj/Debug/net8.0/dcit318-assignment2-10987736.GeneratedMSBuildEditorConfig.editorconfig
+/home/emmanuel/NEWSTART/dcit318-assignment2-10987736/obj/Debug/net8.0/dcit318-assignment2-10987736.AssemblyInfoInputs.cache
+/home/emmanuel/NEWSTART/dcit318-assignment2-10987736/obj/Debug/net8.0/dcit318-assignment2-10987736.AssemblyInfo.cs
+/home/emmanuel/NEWSTART/dcit318-assignment2-10987736/obj/Debug/net8.0/dcit318-assignment2-10987736.csproj.CoreCompileInputs.cache
+/home/emmanuel/NEWSTART/dcit318-assignment2-10987736/obj/Debug/net8.0/dcit318-assignment2-10987736.dll
+/home/emmanuel/NEWSTART/dcit318-assignment2-10987736/obj/Debug/net8.0/refint/dcit318-assignment2-10987736.dll
+/home/emmanuel/NEWSTART/dcit318-assignment2-10987736/obj/Debug/net8.0/dcit318-assignment2-10987736.pdb
+/home/emmanuel/NEWSTART/dcit318-assignment2-10987736/obj/Debug/net8.0/dcit318-assignment2-10987736.genruntimeconfig.cache
+/home/emmanuel/NEWSTART/dcit318-assignment2-10987736/obj/Debug/net8.0/ref/dcit318-assignment2-10987736.dll
